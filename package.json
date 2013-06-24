@@ -12,7 +12,7 @@
     "node": ">= v0.4.0"
   },
   "dependencies": {
-    "socket.io": "git://github.com/AeroSpaceNetwork/socket.io.git"
+    "socket.io": "git://github.com/AeroSpaceNetwork/socket.io.git#5120a706f21d76ddbdc33a43100c7fee801a98dd"
 },
   "devDependencies": {}
 }
